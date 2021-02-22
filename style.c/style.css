@@ -1,0 +1,55 @@
+body{
+    background-color: #fefbd8
+}
+h1{text-align: center;
+font-family: fantasy;
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    margin-left: 20px;
+}
+
+header{
+    border: 3px solid rgb(65, 63, 63);
+    background-color: #fefbd8;
+}
+
+
+.nev-item{ 
+    display: inline-block;
+    margin-right: 40px;
+}
+
+div{
+    border: 2px solid black;
+}
+.patrol{
+    width: 505px;
+  height: 300px;
+  margin-left: 25px;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; margin-left: 10px;
+}
+.right {
+    float: right;
+    width: 300px;
+    margin-right: 55px;
+    padding: 10px;
+    font-size: 30px;
+ 
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+    .toyota{
+        margin-left: 25px;
+    }
