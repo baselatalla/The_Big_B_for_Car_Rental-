@@ -7,6 +7,7 @@ font-family: fantasy;
 
 h2{
     text-align: center;
+    font-size: 15px
 }
 h3{
     text-align: center;
@@ -54,8 +55,11 @@ p{
     .toyota{
         margin-left: 25px;
     }
+<<<<<<< HEAD
     a {
         text-decoration: none;
         color: lightblue;
       }
       
+=======
+>>>>>>> ab58b8f49508a202219ecc20cb4ca732080fc217
