@@ -10,6 +10,7 @@ h2{
 }
 h3{
     text-align: center;
+    font-size: 15px;
 }
 h4{
     margin-left: 20px;
@@ -53,3 +54,8 @@ p{
     .toyota{
         margin-left: 25px;
     }
+    a {
+        text-decoration: none;
+        color: lightblue;
+      }
+      
