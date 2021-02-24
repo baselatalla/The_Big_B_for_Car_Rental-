@@ -1,7 +1,7 @@
 confirm("Are you ready to start");
 
 var name1 = prompt("Inter Your Name :");
-var birthdate = prompt("Inter Your birth date :");
+var birthdate = prompt("Inter Your birth year (1999) :");
 var weight = prompt("Inter Your Weight ( in Kg) :");
 var tall = prompt("Inter Your Tall (in cm Ex = 172 ) :");
 
@@ -67,4 +67,4 @@ var element2 = document.getElementById("yyy");
 element2.innerText = "Advice :"+  message ;
 
 var element3 = document.getElementById("ssss");
-element3.innerText = " Your BMI  : " + bmi ;
+element3.innerText = " Your Body Mass Index (BMI)  : " + bmi ;
