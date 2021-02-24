@@ -5,9 +5,6 @@ var name1 = prompt("Inter Your Name :");
 var birthdate = prompt("Inter Your birth year Ex=(1990) :");
 var intage=parseInt(birthdate);
 
-var birthdate = prompt("Inter Your birth year (1999) :");
-var weight = prompt("Inter Your Weight ( in Kg) :");
-var tall = prompt("Inter Your Tall (in cm Ex = 172 ) :");
 
 while( 1900 > intage || intage > 2021 || isNaN(intage) ){
     alert("your birth date is not valid") ;
